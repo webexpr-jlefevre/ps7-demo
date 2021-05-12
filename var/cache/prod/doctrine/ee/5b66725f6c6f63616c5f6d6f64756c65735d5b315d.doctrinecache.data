@@ -1,0 +1,2 @@
+0
+a:1:{s:18:"ps_searchbarjqauto";a:2:{s:10:"attributes";a:9:{s:4:"name";s:18:"ps_searchbarjqauto";s:11:"displayName";s:18:"Barre de recherche";s:11:"description";s:48:"Ajoute un bloc avec un champ de recherche rapide";s:6:"author";s:12:"Prestarocket";s:17:"limited_countries";a:0:{}s:13:"need_instance";i:0;s:12:"parent_class";s:6:"Module";s:16:"is_paymentModule";b:0;s:15:"is_configurable";i:0;}s:4:"disk";a:5:{s:9:"filemtime";i:1620803457;s:10:"is_present";i:1;s:8:"is_valid";i:1;s:7:"version";s:5:"1.0.0";s:4:"path";s:50:"C:\laragon\www\ps7-demo/modules/ps_searchbarjqauto";}}}
