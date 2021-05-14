@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-05-12 10:09:14
+/* Smarty version 3.1.39, created on 2021-05-12 16:58:45
   from 'module:pssearchbarjqautoviewstem' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_609b8d2ad83d12_47498904',
+  'unifunc' => 'content_609bed255bad47_20867391',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_609b8d2ad83d12_47498904 (Smarty_Internal_Template $_smarty_tpl) {
+function content_609bed255bad47_20867391 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\laragon\www\ps7-demo/themes/blck/modules/ps_searchbarjqauto/views/templates/hook/ps_searchbarjqauto.tpl --><!-- Block search module TOP -->
 <form method="get" action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>
 " class="search-widget" data-search-widget data-search-controller-url="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>

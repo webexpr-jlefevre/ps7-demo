@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-05-12 10:14:28
+/* Smarty version 3.1.39, created on 2021-05-12 17:40:24
   from 'C:\laragon\www\ps7-demo\adminps7demo\themes\default\template\controllers\dashboard\helpers\view\view.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_609b8e64e3ab12_48439157',
+  'unifunc' => 'content_609bf6e827fbd0_23132584',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_609b8e64e3ab12_48439157 (Smarty_Internal_Template $_smarty_tpl) {
+function content_609bf6e827fbd0_23132584 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
 	var dashboard_ajax_url = '<?php echo $_smarty_tpl->tpl_vars['link']->value->getAdminLink('AdminDashboard');?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-05-12 10:09:14
+/* Smarty version 3.1.39, created on 2021-05-12 16:58:45
   from 'C:\laragon\www\ps7-demo\themes\blck\templates\_partials\breadcrumb.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_609b8d2ac7b6a9_49545554',
+  'unifunc' => 'content_609bed25430622_50168852',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_609b8d2ac7b6a9_49545554 (Smarty_Internal_Template $_smarty_tpl) {
+function content_609bed25430622_50168852 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 if ((isset($_smarty_tpl->tpl_vars['breadcrumb']->value['links'][1]))) {?>
@@ -40,7 +40,7 @@ $_smarty_tpl->tpl_vars['__smarty_foreach_breadcrumb']->value['iteration']++;
 $_smarty_tpl->tpl_vars['__smarty_foreach_breadcrumb']->value['last'] = $_smarty_tpl->tpl_vars['__smarty_foreach_breadcrumb']->value['iteration'] === $_smarty_tpl->tpl_vars['__smarty_foreach_breadcrumb']->value['total'];
 ?>
         <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1887455488609b8d2ac78d77_29756822', 'breadcrumb_item');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_463647740609bed2542e185_85776447', 'breadcrumb_item');
 ?>
 
     <?php
@@ -51,12 +51,12 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 <?php }
 }
 /* {block 'breadcrumb_item'} */
-class Block_1887455488609b8d2ac78d77_29756822 extends Smarty_Internal_Block
+class Block_463647740609bed2542e185_85776447 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'breadcrumb_item' => 
   array (
-    0 => 'Block_1887455488609b8d2ac78d77_29756822',
+    0 => 'Block_463647740609bed2542e185_85776447',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

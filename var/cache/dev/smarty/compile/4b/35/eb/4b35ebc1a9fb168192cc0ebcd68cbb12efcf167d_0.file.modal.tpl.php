@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-05-12 10:14:29
+/* Smarty version 3.1.39, created on 2021-05-12 17:40:24
   from 'C:\laragon\www\ps7-demo\adminps7demo\themes\default\template\helpers\modules_list\modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_609b8e6573e076_57649006',
+  'unifunc' => 'content_609bf6e876cda4_62706788',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_609b8e6573e076_57649006 (Smarty_Internal_Template $_smarty_tpl) {
+function content_609bf6e876cda4_62706788 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal fade" id="modules_list_container">
 	<div class="modal-dialog">
 		<div class="modal-content">

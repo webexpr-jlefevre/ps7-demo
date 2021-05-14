@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-05-12 10:09:14
+/* Smarty version 3.1.39, created on 2021-05-12 16:58:45
   from 'module:psemailsubscriptionviewst' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_609b8d2ae77a24_98453649',
+  'unifunc' => 'content_609bed25771322_27023255',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_609b8d2ae77a24_98453649 (Smarty_Internal_Template $_smarty_tpl) {
+function content_609bed25771322_27023255 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\laragon\www\ps7-demo/themes/blck/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
 <div class="block_newsletter col-lg-8 col-12">
   <div class="row">

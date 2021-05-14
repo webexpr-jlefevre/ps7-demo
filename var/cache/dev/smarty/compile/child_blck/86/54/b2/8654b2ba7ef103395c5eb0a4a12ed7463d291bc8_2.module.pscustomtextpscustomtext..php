@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-05-12 10:09:07
+/* Smarty version 3.1.39, created on 2021-05-12 16:58:36
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_609b8d2303f682_16800415',
+  'unifunc' => 'content_609bed1cc5f312_53479293',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_609b8d2303f682_16800415 (Smarty_Internal_Template $_smarty_tpl) {
+function content_609bed1cc5f312_53479293 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\laragon\www\ps7-demo/themes/blck/modules/ps_customtext/ps_customtext.tpl -->
 <div id="custom-text" class="card">
   <div class="card-body">

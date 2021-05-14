@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-05-12 10:14:29
+/* Smarty version 3.1.39, created on 2021-05-12 17:40:24
   from 'module:psmboviewstemplateshookre' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_609b8e656e7b28_56638003',
+  'unifunc' => 'content_609bf6e871acf7_52235892',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_609b8e656e7b28_56638003 (Smarty_Internal_Template $_smarty_tpl) {
+function content_609bf6e871acf7_52235892 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\laragon\www\ps7-demo/modules/ps_mbo/views/templates/hook/recommended-modules.tpl -->
 <?php echo '<script'; ?>
 >
